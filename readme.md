@@ -4,13 +4,16 @@
 
 Este projeto é baseado em código originalmente desenvolvido por Rawan.H e douglas-cavalcante e é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
+## Repositório do Projeto
+
+Confira o código-fonte no GitHub: [api_escola](https://github.com/FuturoDEV-Nature/api_escola)
+
 ## Mudanças Realizadas
 
 - **Atualização de Dependências:** Adicionadas novas bibliotecas (`dotenv`, `jsonwebtoken`) e atualizadas instruções de instalação.
 - **Modificações em Migrations:** Adicionadas e ajustadas instruções para criar e rodar migrations.
 - **Configuração do Ambiente:** Incluído arquivo `.env_example` e atualizado o processo de configuração.
 - **Documentação:** Melhorada com detalhes atualizados sobre instalação e uso.
-
 
 ## Rodar o repositório:
 
